@@ -11,7 +11,7 @@
 **A real-time, client-safe password strength analyzer built with Python & Flask.**  
 Entropy calculation · Pattern detection · Dictionary attack simulation · Crack-time estimation
 
-![Password Analyzer Demo](https://via.placeholder.com/860x420/0a0d12/00e5a0?text=Password+Strength+Analyzer+Screenshot)
+![Password Analyzer Demo](http://127.0.0.1:5000/)
 
 > ⚠️ **Privacy First** — All analysis is processed locally. Your password never leaves your machine.
 
@@ -253,8 +253,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 🎓 Computer Science Student | Cybersecurity Enthusiast  
 📍 University of Vavuniya, Sri Lanka
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/your-username)
+[![LinkedIn](www.linkedin.com/in/darshika-madhuhansani-266397349)
+[![GitHub](https://github.com/hansana1213)
 
 ---
 
