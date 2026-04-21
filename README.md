@@ -11,7 +11,7 @@
 **A real-time, client-safe password strength analyzer built with Python & Flask.**  
 Entropy calculation · Pattern detection · Dictionary attack simulation · Crack-time estimation
 
-![Password Analyzer Demo](http://127.0.0.1:5000/)
+![Password Analyzer Demo](screenshots/1p.png)
 
 > ⚠️ **Privacy First** — All analysis is processed locally. Your password never leaves your machine.
 
@@ -43,12 +43,10 @@ Entropy calculation · Pattern detection · Dictionary attack simulation · Crac
     <td align="center"><b>Analysis Results</b></td>
   </tr>
   <tr>
-    <td><img src="https://via.placeholder.com/420x260/111520/00e5a0?text=Home+Screen" width="420"/></td>
-    <td><img src="https://via.placeholder.com/420x260/111520/00e5a0?text=Analysis+Results" width="420"/></td>
+    <td><img src="screenshots/1p.png" width="420"/></td>
+    <td><img src="screenshots/2p.png" width="420"/></td>
   </tr>
 </table>
-
-> 💡 Replace the placeholder images above with real screenshots of your app!
 
 ---
 
@@ -63,7 +61,7 @@ Entropy calculation · Pattern detection · Dictionary attack simulation · Crac
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/password-strength-analyzer.git
+git clone https://github.com/hansana1213/password-strength-analyzer.git
 cd password-strength-analyzer
 ```
 
@@ -249,12 +247,12 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👨‍💻 Author
 
-**Darshi**  
+**Darshika Madhuhansani**  
 🎓 Computer Science Student | Cybersecurity Enthusiast  
 📍 University of Vavuniya, Sri Lanka
 
-[![LinkedIn](www.linkedin.com/in/darshika-madhuhansani-266397349)
-[![GitHub](https://github.com/hansana1213)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/darshika-madhuhansani-266397349)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/hansana1213)
 
 ---
 
