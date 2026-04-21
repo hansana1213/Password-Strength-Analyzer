@@ -249,7 +249,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Darshika Madhuhansani**  
 🎓 Computer Science Student | Cybersecurity Enthusiast  
-📍 University of Vavuniya, Sri Lanka
+📍 University of South Eastern University, Sri Lanka
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/darshika-madhuhansani-266397349)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/hansana1213)
